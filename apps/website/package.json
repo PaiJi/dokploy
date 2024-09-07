@@ -16,7 +16,6 @@
 		"@headlessui/tailwindcss": "^0.2.0",
 		"@radix-ui/react-select": "^2.0.0",
 		"@radix-ui/react-slot": "^1.0.2",
-		"@types/node": "^18.0.0",
 		"autoprefixer": "^10.4.12",
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.0",
@@ -34,6 +33,7 @@
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.7.0",
+		"@types/node": "^18.19.42",
 		"@types/react": "18.2.18",
 		"@types/react-dom": "18.2.7",
 		"eslint": "8.45.0",
